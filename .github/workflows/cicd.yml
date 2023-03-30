@@ -1,4 +1,3 @@
-cicd.yml
 jobs:
   Build-and-Deploy:
     runs-on: ubuntu-latest
